@@ -1,0 +1,9 @@
+{
+	"name": "databricks-cursoo",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8fbfcc03-5cdc-4779-9441-47612e8b6339",
+		"tenantId": "e8aae9be-7c06-4542-998c-c920ff09bf00"
+	}
+}
